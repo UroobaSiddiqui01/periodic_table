@@ -1,0 +1,24 @@
+body {
+	margin: 0;
+	background-color: gray;
+}
+
+td {
+	width: 1vw;
+	border: 1px solid black;
+	text-align: center;
+	border-spacing: 1px;
+}
+
+.noBorder {
+	border: none;
+}
+
+.headingOne {
+	background-color:black;
+	padding: 2px;
+	font-size: 5vmin;
+	color:white;
+	line-height: 157%;
+	margin: 0;
+}
